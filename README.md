@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **lucas_alvesf09@outlook.com**
 
-- 📄 Know about my experiences [I've worked programing in java/Spring boot for back-end and Vue.js for front-end as a fullstack dev.](I've worked programing in java/Spring boot for back-end and Vue.js for front-end as a fullstack dev.)
+- 📄 Know about my experiences: I've worked programing in java/Spring boot for back-end and Vue.js for front-end as a fullstack dev.
 
 - ⚡ Fun fact **I like to play video-games.**
 
