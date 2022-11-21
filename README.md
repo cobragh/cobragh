@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobragh&label=Profile%20views&color=0e75b6&style=flat" alt="cobragh" /> </p>
 
-- 💬 Ask me about **currently programming in java**
+- 💬 Ask me about **Java/Spring**
 
-- 📫 How to reach me **lucas_alvesf09@outlook.com**
+- 📫 How to reach me: **lucas_alvesf09@outlook.com**
 
 - 📄 Know about my experiences [I've worked programing in java/Spring boot for back-end and Vue.js for front-end as a fullstack dev.](I've worked programing in java/Spring boot for back-end and Vue.js for front-end as a fullstack dev.)
 
