@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Code guy who programs loves what he does.</h3>
+<h3 align="center">Code guy who programs and loves what he does.</h3>
 <img align="right" alt="coffee" width="400" src="https://uploads.spiritfanfiction.com/historias/capas/201812/starbucks-15073552-061220182109.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobragh&label=Profile%20views&color=0e75b6&style=flat" alt="cobragh" /> </p>
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences: I've worked programing in java/Spring boot for back-end and Vue.js for front-end as a fullstack dev.
 
-- ⚡ Fun fact **I like to play video-games.**
+- ⚡ Fun fact: **I like to play video-games and Gym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
