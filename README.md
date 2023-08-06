@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=cobragh&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 📫 How to reach me: lucas_alvesf09@outlook.com
 
@@ -15,5 +16,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cobragh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=cobragh&icon=0&color=0)](https://visitcount.itsvg.in)
